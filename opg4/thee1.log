@@ -1,0 +1,18 @@
+./thee1
+Welkom bij ons theebedrijf. Geef opdrachten:
+> opslaan 200 kg Darjeeling 05-06-2005
+200 kg Darjeeling 05-06-2005 wordt opgeslagen.
+> opslaan 300 kg Earl Grey 06-09-2005
+300 kg Earl Grey 06-09-2005 wordt opgeslagen.
+> leveren
+300 kg Earl Grey 06-09-2005 wordt geleverd.
+> opslaan 800 kg Earl Grey 13-09-2005
+800 kg Earl Grey 13-09-2005 wordt opgeslagen.
+> leveren
+800 kg Earl Grey 13-09-2005 wordt geleverd.
+> leveren
+200 kg Darjeeling 05-06-2005 wordt geleverd.
+> leveren
+Er is geen thee meer in voorraad.
+> stop
+Tot ziens.

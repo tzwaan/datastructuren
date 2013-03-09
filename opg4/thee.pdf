@@ -1,0 +1,563 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 15 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 14 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R9': class PDFCatalog 
+9 0 obj
+% Document Root
+<< /Outlines 11 0 R
+ /PageLabels 18 0 R
+ /PageMode /UseNone
+ /Pages 14 0 R
+ /Type /Catalog >>
+endobj
+% 'R10': class PDFInfo 
+10 0 obj
+<< /Author ()
+ /CreationDate (D:20130207134850-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Het Theebedrijf) >>
+endobj
+% 'R11': class PDFOutlines 
+11 0 obj
+<< /Count 2
+ /First 12 0 R
+ /Last 13 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 729.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 11 0 R
+ /Title (Onderdeel 1: De loods) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 681.0236
+ 0 ]
+ /Parent 11 0 R
+ /Prev 12 0 R
+ /Title (Onderdeel 2: Lekkere thee) >>
+endobj
+% 'R14': class PDFPages 
+14 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 6 0 R
+ 7 0 R
+ 8 0 R ]
+ /Type /Pages >>
+endobj
+% 'R15': class PDFStream 
+15 0 obj
+% page stream
+<< /Length 5296 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 162.1549 0 Td (Het Theebedrijf) Tj T* -162.1549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Onderdeel 1: De loods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+BT 1 0 0 1 0 110 Tm .072765 Tw 12 TL /F1 10 Tf 0 0 0 rg (Stelt u zich een bedrijf voor dat thee importeert. De thee moet in uw loodsen worden opgeslagen totdat de) Tj T* 0 Tw .793318 Tw (distributeur hem komt afhalen. De thee wordt opgeslagen in containers met labels waarop de naam van) Tj T* 0 Tw 2.52881 Tw (de theesoort en de datum van binnenkomst is genoteerd. De thee die het eerst in de loods wordt) Tj T* 0 Tw .405868 Tw (opgeslagen, komt er weer het laatst uit te voorschijn. U wordt gevraagd de loods te modelleren. Men kan) Tj T* 0 Tw .047485 Tw (slechts van \351\351n kant bij de opgeslagen goederen komen; daarom lijkt het handig om als datastructuur een) Tj T* 0 Tw .009987 Tw (stack of queue te gebruiken. Er zijn twee functies van de loods: het opslaan van nieuwe zendingen, en het) Tj T* 0 Tw .760814 Tw (leveren aan de distributeur. Uw programma accepteert opdrachten van de gebruiker die corresponderen) Tj T* 0 Tw .903318 Tw (met die twee functies. De opdrachten worden gegeven via de command line. Een voorbeeldrun van het) Tj T* 0 Tw .013516 Tw (programma zou er bijvoorbeeld als volgt uit kunnen zien \(wat de gebruiker heeft ingetikt staat op de regels) Tj T* 0 Tw (die beginnen met een ) Tj /F3 10 Tf (>) Tj /F1 10 Tf (\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 344.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 228 re B*
+Q
+q
+BT 1 0 0 1 0 206 Tm 12 TL /F3 10 Tf 0 0 0 rg (./thee1) Tj T* (Welkom bij ons theebedrijf. Geef opdrachten:) Tj T* (>) Tj ( opslaan 200 kg Darjeeling 05-06-2005) Tj T* (200 kg Darjeeling 05-06-2005 wordt opgeslagen.) Tj T* (>) Tj ( opslaan 300 kg Earl Grey 06-09-2005) Tj T* (300 kg Earl Grey 06-09-2005 wordt opgeslagen.) Tj T* (>) Tj ( leveren) Tj T* (300 kg Earl Grey 06-09-2005 wordt geleverd.) Tj T* (>) Tj ( opslaan 800 kg Earl Grey 13-09-2005) Tj T* (800 kg Earl Grey 13-09-2005 wordt opgeslagen.) Tj T* (>) Tj ( leveren) Tj T* (800 kg Earl Grey 13-09-2005 wordt geleverd.) Tj T* (>) Tj ( leveren) Tj T* (200 kg Darjeeling 05-06-2005 wordt geleverd.) Tj T* (>) Tj ( leveren) Tj T* (Er is geen thee meer in voorraad.) Tj T* (>) Tj ( stop) Tj T* (Tot ziens.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 324.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Opdracht 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 109.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 202 Tm  T* ET
+q
+1 0 0 1 20 152 cm
+q
+BT 1 0 0 1 0 50 Tm 2.485433 Tw 12 TL /F1 10 Tf 0 0 0 rg (Schrijf een programma ) Tj /F3 10 Tf (thee1.c ) Tj /F1 10 Tf (dat, zoals het bovenstaande voorbeeld, middels 'opslaan'- en) Tj T* 0 Tw 3.411797 Tw ('leveren'-opdrachten de loods modelleert. Het programma bestaat naast het onderdeel dat de) Tj T* 0 Tw .757126 Tw (interactie met de gebruiker behandelt uit de onderdelen ) Tj /F3 10 Tf (loods1.h ) Tj /F1 10 Tf (en ) Tj /F3 10 Tf (loods1.c ) Tj /F1 10 Tf (die de loods als) Tj T* 0 Tw .012651 Tw (een stack of een queue modelleren. Ze bevatten de gekozen data structuur met de volgende functies,) Tj T* 0 Tw (waarvan ook gebruik wordt gemaakt in ) Tj /F3 10 Tf (thee1.c) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (loods1 *maak_loods\(void\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 121 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Een functie die de loods-datastructuur aanmaakt. Retourneert NULL wanneer dit niet lukt.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (int leeg\(loods1 *\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Een functie die ) Tj /F3 10 Tf (1 ) Tj /F1 10 Tf (oplevert als er geen thee meer in het pakhuis aanwezig is en anders ) Tj /F3 10 Tf (0) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (void opslaan\(loods1 *, char *\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 59 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Een functie die een container met het gegeven etiket in het pakhuis opslaat.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 43 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (char *leveren\(loods1 *\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 16 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .198651 Tw (Een functie die de meest recent opgeslagen container uit het pakhuis opdiept en het etiket ervan) Tj T* 0 Tw (teruggeeft. Deze functie retourneert NULL wanneer het pakhuis leeg is.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (int sloop_loods\(loods *\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 5268 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 723.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 29 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 2.240751 Tw 12 TL /F1 10 Tf 0 0 0 rg (Een functie die het pakhuis helemaal leeg haalt en vervolgens het pakhuis vernietigt. Deze) Tj T* 0 Tw .239147 Tw (functie dient door ) Tj /F3 10 Tf (thee1.c ) Tj /F1 10 Tf (aangeroepen te worden wanneer de gebruiker het commando 'stop') Tj T* 0 Tw (geeft.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .162927 Tw 12 TL /F1 10 Tf 0 0 0 rg (Let erop dat alle output naar het scherm in ) Tj /F3 10 Tf (thee1.c ) Tj /F1 10 Tf (wordt gedaan. Anders gezegd: er bevindt zich geen) Tj T* 0 Tw /F3 10 Tf (printf\(\)) Tj /F1 10 Tf (-aanroep in ) Tj /F3 10 Tf (loods1.c) Tj /F1 10 Tf (!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Onderdeel 2: Lekkere thee) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL .179398 Tw (De distributeur is tamelijk boos op zijn leverancier. De kwaliteit van de thee werd door de klanten namelijk) Tj T* 0 Tw 2.304985 Tw (niet hoog aangeslagen. Vermoedelijk kan dit verklaard worden uit het feit dat de thee die het eerst) Tj T* 0 Tw 1.36784 Tw (binnenkwam, pas als laatste met de distributeur is meegegeven. Die thee heeft dus mogelijkerwijs erg) Tj T* 0 Tw .431235 Tw (lang in het pakhuis liggen schimmelen. Het is duidelijk dat een oplossing moet worden gevonden voor dit) Tj T* 0 Tw 1.786235 Tw (probleem. De meest voor de hand liggende manier zou natuurlijk zijn om aan de achterzijde van het) Tj T* 0 Tw (magazijn een uitgang te maken, vanwaar de oudste goederen zouden kunnen worden weggevoerd.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.801412 Tw (Helaas grenst de loods aan de achterzijde aan een natuurgebied. Uiteindelijk wordt besloten om een) Tj T* 0 Tw .123984 Tw (tweede loods naast de eerste op te trekken, met precies dezelfde eigenschappen. Met deze twee loodsen) Tj T* 0 Tw 1.589461 Tw (bestaat er een manier om, zonder \340l te veel heen en weer gesjouw met de thee, de oudste thee het) Tj T* 0 Tw (eerste aan de distributeur af te geven.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Opdracht 2.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 223.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 275.2 Tm  T* ET
+q
+1 0 0 1 20 237.2 cm
+q
+BT 1 0 0 1 0 38 Tm 2.13186 Tw 12 TL /F1 10 Tf 0 0 0 rg (U past het programma uit de vorige opdracht aan, zodanig dat het nu ook opdrachten kent om) Tj T* 0 Tw 2.637126 Tw (pakketten te verplaatsen van loods 1 naar loods 2 en andersom. Dit nieuwe programma moet) Tj T* 0 Tw .70784 Tw /F3 10 Tf (thee2.c ) Tj /F1 10 Tf (gaan heten. Het maakt gebruik van hetzelfde soort loodsen als eerst. Hieronder volgt een) Tj T* 0 Tw (voorbeelduitvoer:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 228 re B*
+Q
+q
+BT 1 0 0 1 0 206 Tm 12 TL /F3 10 Tf 0 0 0 rg (./thee2) Tj T* (Welkom bij ons verbouwde theebedrijf. Geef opdrachten:) Tj T* (>) Tj ( opslaan1 200 kg Darjeeling 05-06-2005) Tj T* (200 kg Darjeeling 05-06-2005 wordt opgeslagen in loods 1.) Tj T* (>) Tj ( opslaan1 300 kg Earl Grey 06-09-2005) Tj T* (300 kg Earl Grey 06-09-2005 wordt opgeslagen in loods 1.) Tj T* (>) Tj ( verplaatsen12) Tj T* (300 kg Earl Grey 06-09-2005 wordt verplaatst van loods 1 naar loods 2.) Tj T* (>) Tj ( leveren1) Tj T* (200 kg Darjeeling 05-06-2005 wordt geleverd uit loods 1.) Tj T* (>) Tj ( opslaan1 800 kg Earl Grey 03-04-2006) Tj T* (800 kg Earl Grey 03-04-2006 wordt opgeslagen in loods 1.) Tj T* (>) Tj ( leveren2) Tj T* (300 kg Earl Grey 06-09-2005 wordt geleverd uit loods 2.) Tj T* (>) Tj ( leveren1) Tj T* (800 kg Earl Grey 03-04-2006 wordt geleverd uit loods 1.) Tj T* (>) Tj ( stop) Tj T* (Tot ziens.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 121.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .781098 Tw (Nu u hebt uitgedacht hoe twee loodsen gebruikt kunnen worden om de thee zodanig op te slaan dat de) Tj T* 0 Tw 6.185433 Tw (klanten niet vergiftigd worden, kunnen we het loodsensysteem iets abstracter bekijken. Het) Tj T* 0 Tw 2.458651 Tw (pakhuizenpaar dient namelijk nog steeds hetzelfde doel als aan het begin: thee moet er in worden) Tj T* 0 Tw .91686 Tw (opgeslagen, en er weer uit worden gehaald, alleen de manier waarop is iets anders geworden. Het zou) Tj T* 0 Tw 2.461318 Tw (dus aardig zijn als er een programma geschreven kon worden dat op dezelfde manier kan worden) Tj T* 0 Tw .829318 Tw (gebruikt als het onderdeel loods1, maar dat intern beschikt over tw\351\351 zulke ouderwetse loodsen en een) Tj T* 0 Tw .275366 Tw (interne organisatie die het onvermijdelijke heen en weer verplaatsen van containers automatisch voor zijn) Tj T* 0 Tw (rekening neemt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 105.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Opdracht 2.2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 2743 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 726.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.978443 Tw (U schrijft nu code voor een nieuw pakhuissysteem, loods3, dat gebruik maakt van twee) Tj T* 0 Tw 6.034524 Tw (loods1-loodsen. loods3 bevat precies dezelfde functies als loods1, maar ze zijn anders) Tj T* 0 Tw (ge\357mplementeerd.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 710.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Opdracht 2.3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 373.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 323.2 Tm  T* ET
+q
+1 0 0 1 20 273.2 cm
+q
+BT 1 0 0 1 0 50 Tm .615697 Tw 12 TL /F1 10 Tf 0 0 0 rg (U maakt een programma ) Tj /F3 10 Tf (thee3.c ) Tj /F1 10 Tf (die hetzelfde doet als ) Tj /F3 10 Tf (thee1.c) Tj /F1 10 Tf (, maar dan gebruik makend van) Tj T* 0 Tw 2.168443 Tw (het nieuwe loodsensysteem. Als het goed is worden ) Tj /F3 10 Tf (thee3.c ) Tj /F1 10 Tf (en ) Tj /F3 10 Tf (thee1.c ) Tj /F1 10 Tf (vrijwel identiek! In) Tj T* 0 Tw 2.485984 Tw (tegenstelling tot ) Tj /F3 10 Tf (thee1.c ) Tj /F1 10 Tf (ligt het voor de hand om de ) Tj /F3 10 Tf (printf\(\)) Tj /F1 10 Tf ('s hier wel in ) Tj /F3 10 Tf (loods3.c ) Tj /F1 10 Tf (te) Tj T* 0 Tw 6.185433 Tw (plaatsen aangezien ze de interne werking van loods3 beschrijven. Hieronder volgt een) Tj T* 0 Tw (voorbeelduitvoer:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 264 re B*
+Q
+q
+BT 1 0 0 1 0 242 Tm 12 TL /F3 10 Tf 0 0 0 rg (./thee3) Tj T* (Welkom bij ons moderne theebedrijf. Geef opdrachten:) Tj T* (>) Tj ( opslaan 200 kg Darjeeling 05-06-2005) Tj T* (200 kg Darjeeling 05-06-2005 wordt opgeslagen in loods 1.) Tj T* (>) Tj ( opslaan 300 kg Earl Grey 06-09-2005) Tj T* (300 kg Earl Grey 06-09-2005 wordt opgeslagen in loods 1.) Tj T* (>) Tj ( leveren) Tj T* (300 kg Earl Grey 06-09-2005 wordt verplaatst van loods 1 naar loods 2.) Tj T* (200 kg Darjeeling 05-06-2005 wordt verplaatst van loods 1 naar loods 2.) Tj T* (200 kg Darjeeling 05-06-2005 wordt geleverd uit loods 2.) Tj T* (>) Tj ( opslaan 800 kg Earl Grey 03-04-2006) Tj T* (800 kg Earl Grey 03-04-2006 wordt opgeslagen in loods 1.) Tj T* (>) Tj ( leveren) Tj T* (300 kg Earl Grey 06-09-2005 wordt geleverd uit loods 2.) Tj T* (>) Tj ( leveren) Tj T* (800 kg Earl Grey 03-04-2006 wordt verplaatst van loods 1 naar loods 2.) Tj T* (800 kg Earl Grey 03-04-2006 wordt geleverd uit loods 2.) Tj T* (>) Tj ( leveren) Tj T* (Er is geen thee meer in voorraad.) Tj T* (>) Tj ( stop) Tj T* (Tot ziens.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R18': class PDFPageLabels 
+18 0 obj
+% Document Root
+<< /Nums [ 0
+ 19 0 R
+ 1
+ 20 0 R
+ 2
+ 21 0 R ] >>
+endobj
+% 'R19': class PDFPageLabel 
+19 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R20': class PDFPageLabel 
+20 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R21': class PDFPageLabel 
+21 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 22
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000746 00000 n
+0000000915 00000 n
+0000001194 00000 n
+0000001473 00000 n
+0000001752 00000 n
+0000001910 00000 n
+0000002173 00000 n
+0000002298 00000 n
+0000002479 00000 n
+0000002648 00000 n
+0000002771 00000 n
+0000008166 00000 n
+0000013533 00000 n
+0000016379 00000 n
+0000016498 00000 n
+0000016575 00000 n
+0000016652 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\224\350\213\030\223\037nVf\330-\004\372\200\212\317) (\224\350\213\030\223\037nVf\330-\004\372\200\212\317)] 
+
+ /Info 10 0 R
+ /Root 9 0 R
+ /Size 22 >>
+startxref
+16699
+%%EOF

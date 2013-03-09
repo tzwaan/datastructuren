@@ -1,0 +1,19 @@
+./thee2
+Welkom bij ons verbouwde theebedrijf. Geef opdrachten:
+> opslaan1 200 kg Darjeeling 05-06-2005
+200 kg Darjeeling 05-06-2005 wordt opgeslagen in loods 1.
+> opslaan1 300 kg Earl Grey 06-09-2005
+300 kg Earl Grey 06-09-2005 wordt opgeslagen in loods 1.
+> verplaatsen12
+300 kg Earl Grey 06-09-2005 wordt verplaatst van loods 1 naar loods 2.
+> leveren1
+200 kg Darjeeling 05-06-2005 wordt geleverd uit loods 1.
+> opslaan1 800 kg Earl Grey 03-04-2006
+800 kg Earl Grey 03-04-2006 wordt opgeslagen in loods 1.
+> leveren2
+300 kg Earl Grey 06-09-2005 wordt geleverd uit loods 2.
+> leveren1
+800 kg Earl Grey 03-04-2006 wordt geleverd uit loods 1.
+> stop
+Tot ziens.
+

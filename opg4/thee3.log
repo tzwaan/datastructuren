@@ -1,0 +1,21 @@
+./thee3
+Welkom bij ons moderne theebedrijf. Geef opdrachten:
+> opslaan 200 kg Darjeeling 05-06-2005
+200 kg Darjeeling 05-06-2005 wordt opgeslagen in loods 1.
+> opslaan 300 kg Earl Grey 06-09-2005
+300 kg Earl Grey 06-09-2005 wordt opgeslagen in loods 1.
+> leveren
+300 kg Earl Grey 06-09-2005 wordt verplaatst van loods 1 naar loods 2.
+200 kg Darjeeling 05-06-2005 wordt verplaatst van loods 1 naar loods 2.
+200 kg Darjeeling 05-06-2005 wordt geleverd uit loods 2.
+> opslaan 800 kg Earl Grey 03-04-2006
+800 kg Earl Grey 03-04-2006 wordt opgeslagen in loods 1.
+> leveren
+300 kg Earl Grey 06-09-2005 wordt geleverd uit loods 2.
+> leveren
+800 kg Earl Grey 03-04-2006 wordt verplaatst van loods 1 naar loods 2.
+800 kg Earl Grey 03-04-2006 wordt geleverd uit loods 2.
+> leveren
+Er is geen thee meer in voorraad.
+> stop
+Tot ziens.
